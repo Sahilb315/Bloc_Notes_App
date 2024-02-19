@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691773391145",
+    "project_id": "bloc-crud-d9780",
+    "storage_bucket": "bloc-crud-d9780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691773391145:android:3203fd2da910f3f9dff738",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMsTnRpXwykPvHYkem5sNaC4uxEj3LRSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
